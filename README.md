@@ -1,0 +1,2 @@
+# SQL  
+### INNER JOIN和LEFT JOIN的区别  
